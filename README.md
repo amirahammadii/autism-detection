@@ -24,12 +24,8 @@ Removes non-alphanumeric characters and converts text to lowercase.
 Model Building:
 The model processes both text inputs and numerical features.
 5. Installation
-Clone the repository:
-git clone https://github.com/your-repository/asd-diagnostic-tool.git  
-cd asd-diagnostic-tool  
-Install the required packages:
-
-pip install -r requirements.txt  
+Install the required packages :
+pip install 
 Download the dataset and place it in the project directory.
 
 6. Usage
